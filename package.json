@@ -1,0 +1,27 @@
+{
+  "name": "yummytea",
+  "version": "1.0.0",
+  "description": "e-commerce rails platform",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/essxiv/yummyTea.git"
+  },
+  "keywords": [
+    "rails",
+    "ruby",
+    "e-commerce"
+  ],
+  "author": "gregory hasenauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/essxiv/yummyTea/issues"
+  },
+  "homepage": "https://gitlab.com/essxiv/yummyTea#README"
+}
