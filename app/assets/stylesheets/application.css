@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+	font-family: 'Pontano Sans';
+}
