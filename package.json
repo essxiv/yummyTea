@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://gitlab.com/essxiv/yummyTea/issues"
   },
-  "homepage": "https://gitlab.com/essxiv/yummyTea#README"
+  "homepage": "https://gitlab.com/essxiv/yummyTea#README",
+  "dependencies": {
+    "vue": "^1.0.26"
+  }
 }
